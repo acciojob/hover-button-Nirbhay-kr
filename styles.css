@@ -6,10 +6,9 @@
 	color: white;
 	border-radius: 5px;
 	border: none;
-	background-color: 
 }
 
-a:hover {
+#btn:hover {
   background-color: yellow;
   color: black;
   border-radius: 30px;
